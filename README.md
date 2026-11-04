@@ -1,6 +1,5 @@
-[EN]
 
-# Albion Business Tracking
+# [EN] Albion Business Tracking
 
 Desktop application for managing the finances of your businesses in Albion Online.
 
@@ -16,14 +15,7 @@ If you prefer not to install anything, you can use the browser version here:
 
 https://albion-business-tracking-web.crownforgeindustries.workers.dev/
 
----
-
-Crownforge Industries
-
-
-[ES]
-
-# Albion Business Tracking
+# [ES] Albion Business Tracking
 
 App de escritorio para llevar la economía de tus negocios en Albion Online.
 
@@ -37,6 +29,3 @@ En la sección **Releases** (a la derecha) tienes la última versión:
 ## Versión web
 
 Si prefieres no instalar nada, tienes la versión de navegador aquí: https://albion-business-tracking-web.crownforgeindustries.workers.dev/
-
----
-Crownforge Industries
